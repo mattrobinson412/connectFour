@@ -57,7 +57,7 @@ table {
 
 body {
   /* background-color: #1f2041; */
-  background: linear-gradient(-45deg, #1f2041, #4b3f72, #ab81cd);
+  background: linear-gradient(-45deg, #1f2041, #4b3f72, #ab81cd, #e2adf2);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 }
@@ -118,7 +118,7 @@ body {
 } 
 
 .p1 {
-  background: linear-gradient(-45deg, #e68609, #b4aca2);
+  background: linear-gradient(-45deg, #EA3788, #b4aca2);
   
 }
 .p2 {
